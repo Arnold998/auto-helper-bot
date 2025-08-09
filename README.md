@@ -9,3 +9,6 @@ This project explores task automation via a custom-built bot for repetitive desk
 ## Day 1 — 2025-08-01
 - Initialized project with Python virtual environment  
 - Set up basic file structure and requirements.txt
+## Day 2 — 2025-08-02
+- Implemented keyboard shortcut triggers for common actions  
+- Added simple logging system to track executed automation tasks
